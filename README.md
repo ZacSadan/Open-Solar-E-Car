@@ -43,11 +43,12 @@ We believe that a green solar e-bike can make our world a better place, providin
 ## Version 0.98
   Components ( RED is must , Gray is nice-to-have )
   - Two used e-bikes ( Orange , 2x100$ )
-  - Chassis ( DIY or by local metalworkers )
-  - 2 pedals
-  - bicycle handlebars connector
-  - back wheels connector
-  - long Bicycle chain
+  - Chassis ( DIY or by local metalworkers , 200$ )
+    - Bicycle handlebars connector
+    - Back wheels connector
+  - Two pedals ( 10$ )
+  - Long Bicycle chain ( 20$ )
+  - Solar panel ( 200$ )
   
   <img src="images/tinkercad.0.98.png" height="300">
   
