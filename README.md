@@ -23,21 +23,18 @@ We believe that a green solar e-bike can make our world a better place, providin
   ### Legal
   most is not leagel
 
-   ### nice:
+  ### nice:
 
-   ## Version 0.98
+## Version 0.98
 
-   ### Design :
-   https://www.tinkercad.com/things/kswY0xzA9k0-solar-two-seats-e-bike/
+  ### Design : https://www.tinkercad.com/things/kswY0xzA9k0-solar-two-seats-e-bike/
 
-   ### Intructuctions:
-   https://docs.google.com/document/d/1ig_DCwNI8agb9vI_a80LRkrUaHzYRzb-5sLxONX-BeA/edit#
+  ### Intructuctions: https://docs.google.com/document/d/1ig_DCwNI8agb9vI_a80LRkrUaHzYRzb-5sLxONX-BeA/edit#
 
 
 ## Standing on the shouders of giants:
 
 Youtube playlist :
-
 Pinterest Playlist :
 
 
