@@ -45,7 +45,8 @@ We believe that a green solar car can make our world a better place, providing b
   - Low cost USB Air-Condition 
   - BLE Speakers
 
-## Open Solar E-Car : Version 0.98
+# Open Solar E-Car Versions:
+## Version 0.98
   
   ### Components:
   - Two **used** and EN15194 approved E-Bikes ( separated by existed foldable connector , 2x100$ )
