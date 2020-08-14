@@ -8,4 +8,4 @@ The blueprints and instructions will enable any **non-technical person** to buil
 We believe that a green solar e-bike can make our world a better place, providing better mobility for both developed and developing countries, and directly **affect the environment and economy**.
 
 
-### Version 3.2 : https://www.tinkercad.com/things/kswY0xzA9k0-solar-two-seats-e-bike/edit
+### Version 3.2 : https://www.tinkercad.com/things/kswY0xzA9k0-solar-two-seats-e-bike/
