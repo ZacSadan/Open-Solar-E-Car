@@ -41,14 +41,16 @@ We believe that a green solar e-bike can make our world a better place, providin
 
 
 ## Version 0.98
-  Components ( RED is must , GRAY is nice-to-have )
-  - Two **used** e-bikes ( ORAGNE , separated by existed foldable connector , 2x100$ )
+  Components:
+  - Two **used** e-bikes ( separated by existed foldable connector , 2x100$ )
   - Chassis ( DIY or by local metalworkers , 200$ )
     - Bicycle handlebars connector
     - Back wheels connector
   - Two pedals ( 10$ )
   - Long Bicycle chain ( 20$ )
   - Solar panel ( 200$ )
+  
+  Legend:  ( ORAGNE are the used e-bikes , RED is must on first phase )
   
   <img src="images/tinkercad.0.98.png" height="300">
   
