@@ -7,5 +7,27 @@ The blueprints and instructions will enable any **non-technical person** to buil
 
 We believe that a green solar e-bike can make our world a better place, providing better mobility for both developed and developing countries, and directly **affect the environment and economy**.
 
+## Master Aims:
+- Legal . Most of the desginas aren't legal. More here..
+- Good looking.
+- 
 
-### Version 3.2 : https://www.tinkercad.com/things/kswY0xzA9k0-solar-two-seats-e-bike/
+## Contributers:
+- You !
+
+## TODO:
+- Built the first prototype
+
+## More on Master aims:
+
+### Legal
+most is not leagel
+
+### nice:
+
+## Version 0.98
+
+Design :
+https://www.tinkercad.com/things/kswY0xzA9k0-solar-two-seats-e-bike/
+
+Intructu
