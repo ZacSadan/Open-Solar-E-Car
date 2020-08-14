@@ -42,7 +42,7 @@ We believe that a green solar e-bike can make our world a better place, providin
 
 ## Version 0.98
   Components ( RED is must , Gray is nice-to-have )
-  - Two used e-bikes ( Orange , 2x100$ )
+  - Two used e-bikes ( Orange , separated by existed foldable connector , 2x100$ )
   - Chassis ( DIY or by local metalworkers , 200$ )
     - Bicycle handlebars connector
     - Back wheels connector
