@@ -17,21 +17,26 @@ We believe that a green solar e-bike can make our world a better place, providin
 
 
 ## Contributers:
-- You !
+- You. please help us !
 
 ## TODO:
 - Built the first prototype
 
-
-
 ## More on Master aims:
 
   ### Legal
-  most is not leagel
-
-  ### nice:
-
-
+  The EN15194 reulations enforce these rules:
+  - Up to 25KMPH 
+  - Lights ( back and forward )
+  - Horn
+  - Electric engine power activated by pedals
+  - Up to 250W motor (  750W/500W in US/Canada )
+  - 4 wheels ( 3 in US/Canada )
+  - Up to 2 passengers
+  - Width : under 1 meter ( according to EN12184 , might not be relevant )
+  - Wight : up to 30Kg ( might not be relevant )
+  - Handles steering ( wheel is forbidden ! )
+ 
   ### Extra features:
   
   - Locking system against thieves ( wheels , solar panel , batteries )
@@ -39,11 +44,10 @@ We believe that a green solar e-bike can make our world a better place, providin
   - Low cost USB Air-Condition 
   - BLE Speakers
 
-
 ## Version 0.98
   
   ### Components:
-  - Two **used** e-bikes ( separated by existed foldable connector , 2x100$ )
+  - Two **used** and EN15194 approved E-Bikes ( separated by existed foldable connector , 2x100$ )
   - Chassis ( DIY or by local metalworkers , 200$ )
     - Bicycle handlebars connector
     - Back wheels connector
