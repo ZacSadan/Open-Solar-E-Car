@@ -1,4 +1,4 @@
-# Open-Solar-E-Car
+# Open Solar E-Car
 ## Free Green Transportation Design for Everyone
 
 The aim is to create free blueprint+instructions for building a simple, **attractive-looking**, and of course **legal**, two-passenger **solar e-bike**, with **100% green charging** and transportation abilities.
