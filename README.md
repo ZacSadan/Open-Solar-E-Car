@@ -21,6 +21,7 @@ We believe that a green solar e-bike can make our world a better place, providin
 
 ## TODO:
 - Built the first prototype
+- Constructor signed approval for Chassis
 
 ## More on Master aims:
 
@@ -117,3 +118,7 @@ Products
 - https://www.indiamart.com/proddetail/walkman-solar-tricycle-15810125555.html 
 - https://minghongmotors.en.alibaba.com/product/60822055928-814768985/New_E_Trike_3_wheel_Electric_Tricycle_adult_Pedal_Assist_Electric_Passenger_Type.html 
 - https://www.alibaba.com/product-detail/Pedal-Family-Baby-Two-Seater-Beach_60364563115.html?spm=a2700.7724857.normalList.36.5a18117dxujZaP  
+
+Futuristic Cars:
+- https://lightyear.one/
+
