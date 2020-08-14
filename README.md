@@ -58,6 +58,7 @@ We believe that a green solar e-bike can make our world a better place, providin
   ### Intructuctions: 
    https://docs.google.com/document/d/1ig_DCwNI8agb9vI_a80LRkrUaHzYRzb-5sLxONX-BeA/edit#
 
+.
 ## Standing on the shoulders of giants:
 
 - **Youtube playlist:** https://www.youtube.com/playlist?list=PLdaoA8LxigmHuGoYiRbrgap6RRA3EQaRt 
