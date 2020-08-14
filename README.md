@@ -18,6 +18,8 @@ We believe that a green solar e-bike can make our world a better place, providin
 ## TODO:
 - Built the first prototype
 
+
+
 ## More on Master aims:
 
   ### Legal
@@ -27,10 +29,13 @@ We believe that a green solar e-bike can make our world a better place, providin
 
 ## Version 0.98
 
-  ### Design : https://www.tinkercad.com/things/kswY0xzA9k0-solar-two-seats-e-bike/
-
-  ### Intructuctions: https://docs.google.com/document/d/1ig_DCwNI8agb9vI_a80LRkrUaHzYRzb-5sLxONX-BeA/edit#
-
+  <img src="images/tinkercad.0.98.png" height="300">
+  
+  ### Design: 
+   https://www.tinkercad.com/things/kswY0xzA9k0-solar-two-seats-e-bike/
+ 
+  ### Intructuctions: 
+   https://docs.google.com/document/d/1ig_DCwNI8agb9vI_a80LRkrUaHzYRzb-5sLxONX-BeA/edit#
 
 ## Standing on the shouders of giants:
 
