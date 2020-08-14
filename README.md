@@ -59,10 +59,10 @@ We believe that a green solar e-bike can make our world a better place, providin
   
   <img src="images/tinkercad.0.98.png" height="300">
   
-  ### Design: 
+  ### 3D Design: 
    https://www.tinkercad.com/things/kswY0xzA9k0-solar-two-seats-e-bike/
  
-  ### Intructuctions: 
+  ### Instructions: 
    https://docs.google.com/document/d/1ig_DCwNI8agb9vI_a80LRkrUaHzYRzb-5sLxONX-BeA/edit#
 
 .
