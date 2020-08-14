@@ -6,3 +6,6 @@ The aim is to create free blueprint+instructions for building a simple, **attrac
 The blueprints and instructions will enable any **non-technical person** to build the bike at home with a screwdriver, saw and drill (and his/her own materials), for **under 1000$**. 
 
 We believe that a green solar e-bike can make our world a better place, providing better mobility for both developed and developing countries, and directly **affect the environment and economy**.
+
+
+### Version 3.2 : https://www.tinkercad.com/things/kswY0xzA9k0-solar-two-seats-e-bike/edit
