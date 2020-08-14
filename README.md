@@ -54,7 +54,7 @@ We believe that a green solar e-bike can make our world a better place, providin
     - Back wheels connector
   - Two pedals ( 10$ )
   - Long Bicycle chain ( 20$ )
-  - Solar panel ( 250$ , https://www.amazon.com//dp/B082FCZ4MD )
+  - Flexible Solar panel ( 250$ => 160W  https://www.amazon.com//dp/B082FCZ4MD )
   
   Legend:  ( ORAGNE are the used e-bikes , RED is must on first phase )
   
