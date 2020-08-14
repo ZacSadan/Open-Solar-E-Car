@@ -41,7 +41,8 @@ We believe that a green solar e-bike can make our world a better place, providin
 
 
 ## Version 0.98
-  Components:
+  
+  ### Components:
   - Two **used** e-bikes ( separated by existed foldable connector , 2x100$ )
   - Chassis ( DIY or by local metalworkers , 200$ )
     - Bicycle handlebars connector
