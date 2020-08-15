@@ -57,7 +57,7 @@ We believe that a green solar car can make our world a better place, providing b
   - Two pedals ( 10$ )
   - Long Bicycle chain ( 20$ )
   - Flexible Solar panel ( 250$ => 160W  https://www.amazon.com//dp/B082FCZ4MD )
-  Total : 900$
+  - Total : 900$
   
   Legend:  ( ORAGNE are the used e-bikes , RED is must on first phase )
   
