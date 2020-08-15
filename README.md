@@ -64,7 +64,7 @@ We believe that a green solar car can make our world a better place, providing b
    
    ( Click on "View in 3D" or "Tinker this" )
    
-   <img src="images/tinkercad.0.98.png" height="300">
+   <img src="images/v098.en.design.gif" height="300">
    
    Legend:  ( ORAGNE are the used e-bikes , RED is must on first phase )
    
