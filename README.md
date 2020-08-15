@@ -61,12 +61,14 @@ We believe that a green solar car can make our world a better place, providing b
   
   Legend:  ( ORAGNE are the used e-bikes , RED is must on first phase )
   
-  <img src="images/tinkercad.0.98.png" height="300">
+  
   
   ### 3D Design: 
    https://www.tinkercad.com/things/kswY0xzA9k0-solar-two-seats-e-bike/
    
    ( Click on "View in 3D" or "Tinker this" )
+   
+   <img src="images/tinkercad.0.98.png" height="300">
    
   ### Instructions: 
    - Extending Brakes Cables 
