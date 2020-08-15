@@ -74,11 +74,8 @@ We believe that a green solar car can make our world a better place, providing b
    - Extending Shifters Cables 
    - Full instructions : https://docs.google.com/document/d/1ig_DCwNI8agb9vI_a80LRkrUaHzYRzb-5sLxONX-BeA/edit#
    
-
-## Short link to this project:
-https://bit.ly/SolarE-Car
-
 .
+
 ## Standing on the shoulders of giants:
 
 - **Youtube playlist:** https://www.youtube.com/playlist?list=PLdaoA8LxigmHuGoYiRbrgap6RRA3EQaRt 
