@@ -75,6 +75,9 @@ We believe that a green solar car can make our world a better place, providing b
    - Full instructions : https://docs.google.com/document/d/1ig_DCwNI8agb9vI_a80LRkrUaHzYRzb-5sLxONX-BeA/edit#
    
 
+## Short link to this project:
+https://bit.ly/SolarE-Car
+
 .
 ## Standing on the shoulders of giants:
 
