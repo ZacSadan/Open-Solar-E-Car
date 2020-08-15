@@ -72,7 +72,7 @@ We believe that a green solar car can make our world a better place, providing b
    - Extending Brakes Cables 
    - Extending Power Cables
    - Extending Shifters Cables 
-   - Full instructions : https://docs.google.com/document/d/1ig_DCwNI8agb9vI_a80LRkrUaHzYRzb-5sLxONX-BeA/edit#
+   - Full instructions : https://github.com/ZacSadan/Open-Solar-E-Car/wiki/v098.en.Instructions
    
 .
 
