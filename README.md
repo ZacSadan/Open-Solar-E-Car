@@ -11,6 +11,7 @@ We believe that a green solar car can make our world a better place, providing b
 - Legal . Most of the current designs aren't legal in most countries. 
 - Affordable price (under 1,000$)
 - DIY : Can be built with only a screwdriver and drill using commodity parts.
+- Safe.
 - Good looking 
 - Zero maintenance costs ; 100% powered by solar power.
 - Long distance ( 2-3 hours of driving after 1 day of solar charging )
@@ -49,13 +50,14 @@ We believe that a green solar car can make our world a better place, providing b
 ## Version 0.98
   
   ### Components:
-  - Two **used** and EN15194 approved E-Bikes ( separated by existed foldable connector , 2x100$ )
+  - Two **used** and EN15194 approved **E-Bikes** ( separated by existed foldable connector , 2x200$ )
   - Chassis ( DIY or by local metalworkers , 200$ )
     - Bicycle handlebars connector
     - Back wheels connector
   - Two pedals ( 10$ )
   - Long Bicycle chain ( 20$ )
   - Flexible Solar panel ( 250$ => 160W  https://www.amazon.com//dp/B082FCZ4MD )
+  Total : 900$
   
   Legend:  ( ORAGNE are the used e-bikes , RED is must on first phase )
   
