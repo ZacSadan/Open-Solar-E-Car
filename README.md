@@ -86,6 +86,7 @@ We believe that a green solar car can make our world a better place, providing b
 - https://www.mypodride.com 
 - https://rhoadescar.com/models/solaride/sr4/ 
 - https://urbandrivestyle.com/ 
+- https://www.squadmobility.com/
 - https://www.facebook.com/udmuuv/photos/a.361334547796323/361333914463053
 - https://www.internationalsurreyco.com/four-wheel-bikes/surrey-cycles/ 
 - https://www.better.bike/features
