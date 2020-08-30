@@ -47,7 +47,15 @@ We believe that a green solar car can make our world a better place, providing b
   - BLE Speakers
 
 # Open Solar E-Car Versions:
+
 ## Version 0.98
+
+ ### 3D Design:   
+  https://www.tinkercad.com/things/4FsnoZgwlS6-solar-two-seats-e-bike-v098/edit
+  ( Click on "View in 3D" or "Tinker this" )
+  
+  
+## Version 0.92
   
   ### Components:
   - Two **used** and EN15194 approved **E-Bikes** ( separated by existed foldable connector , 2x200$ )
