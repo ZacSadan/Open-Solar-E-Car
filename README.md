@@ -52,9 +52,11 @@ We believe that a green solar car can make our world a better place, providing b
 
  ### 3D Design:   
   https://www.tinkercad.com/things/4FsnoZgwlS6-solar-two-seats-e-bike-v098/
+  
   ( Click on "View in 3D" or "Tinker this" )
   
-  
+   <img src="images/v099.en.design.gif" height="300">
+
 ## Version 0.92
   
   ### Components:
