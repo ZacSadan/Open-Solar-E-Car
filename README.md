@@ -104,14 +104,14 @@ We believe that a green solar car can make our world a better place, providing b
 - https://americanspeedster.com/
 - **https://www.velometro.com/veemo/**
 - https://electricbikereview.com/forums/threads/treecycle-75kg-family-ebike.26936/ 
-- **https://www.evovelo.com **
+- **https://www.evovelo.com**
 - https://www.biohybrid.com/
 - **https://sunox.org/**
 - https://www.firststreetonline.com/Healthy+Living/Adult+Trikes+and+Bikes/Dual+Seat+Adult+Tricycles.axd
 - http://cyclocar.com/
-- **https://cleanleap.com/africa-pilots-use-solar-powered-cycle-vehicles **
+- **https://cleanleap.com/africa-pilots-use-solar-powered-cycle-vehicles**
 - http://www.bikeforest.com/rhoades_car.php
-- **https://electricbikereview.com/virtue-cycles/pedalist/ **
+- **https://electricbikereview.com/virtue-cycles/pedalist/**
 - http://according-to-e.blogspot.com/2007/09/behold-pedal-car.html 
 - https://www.facebook.com/PPV-The-People-Powered-Vehicle-600923303258656/ 
 - https://www.utahtrikes.com/SPECIALPROJECT-24hrSociable.html 
@@ -133,7 +133,7 @@ Products
 - https://merckcycle.en.alibaba.com/productlist.html?spm=a2700.icbuShop.88.18.68711060bp2uhn
 - https://www.alibaba.com/product-detail/6-Speed-Pedal-Assist-Bicycle-Battery_60753446669.html 
 - https://www.alibaba.com/product-detail/Electric-Solar-Power-Three-Wheel-Rear_62206896444.html?spm=a2700.wholesale.deiletai6.7.62e94cdfRrxsFc 
-- **https://www.alibaba.com/product-detail/Hybrid-electric-rickshaw-taxi-three-wheels_60816323976.html?spm=a2700.7724857.normalList.158.4df1125eztbV4f **
+- **https://www.alibaba.com/product-detail/Hybrid-electric-rickshaw-taxi-three-wheels_60816323976.html?spm=a2700.7724857.normalList.158.4df1125eztbV4f**
 - https://www.indiamart.com/proddetail/walkman-solar-tricycle-15810125555.html 
 - https://minghongmotors.en.alibaba.com/product/60822055928-814768985/New_E_Trike_3_wheel_Electric_Tricycle_adult_Pedal_Assist_Electric_Passenger_Type.html 
 - https://www.alibaba.com/product-detail/Pedal-Family-Baby-Two-Seater-Beach_60364563115.html?spm=a2700.7724857.normalList.36.5a18117dxujZaP  
