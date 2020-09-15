@@ -88,8 +88,8 @@ We believe that a green solar car can make our world a better place, providing b
 
 ## Standing on the shoulders of giants:
 
-- **Youtube playlist:** https://www.youtube.com/playlist?list=PLdaoA8LxigmHuGoYiRbrgap6RRA3EQaRt 
-- **Pinterest Playlist:** https://www.pinterest.com/zacsadan/electric-solar-micro-cars/
+- **Youtube playlist: https://www.youtube.com/playlist?list=PLdaoA8LxigmHuGoYiRbrgap6RRA3EQaRt**
+- **Pinterest Playlist: https://www.pinterest.com/zacsadan/electric-solar-micro-cars/**
 
 - **https://www.squadmobility.com/**
 - **https://www.better.bike/features**
@@ -97,8 +97,8 @@ We believe that a green solar car can make our world a better place, providing b
 - **https://www.velometro.com/veemo/**
 - **https://www.evovelo.com**
 - **https://sunox.org/**
-- **https://rhoadescar.com/models/solaride/sr4/ **
-- **https://rhoadescar.com/models/sportped/e-two-lf/ **
+- **https://rhoadescar.com/models/solaride/sr4/**
+- **https://rhoadescar.com/models/sportped/e-two-lf/**
 - **https://cleanleap.com/africa-pilots-use-solar-powered-cycle-vehicles**
 - **https://electricbikereview.com/virtue-cycles/pedalist/**
 - **https://www.facebook.com/udmuuv/photos/a.361334547796323/361333914463053**
@@ -127,7 +127,7 @@ Manuals:
 - http://www.sunnev.com/title_page.htm 
 
 Products
-- **http://www.hybridmicrocar.com/tumtum_micro_car_kits - Quadricycle Solar Kit **
+- **http://www.hybridmicrocar.com/tumtum_micro_car_kits - Quadricycle Solar Kit**
 - **https://www.alibaba.com/product-detail/Electric-Motorized-2-Seat-Passenger-Bike_60665279233.html?spm=a2700.galleryofferlist.0.0.29aafdea8q6zMN**
 - **https://www.alibaba.com/product-detail/Hybrid-electric-rickshaw-taxi-three-wheels_60816323976.html?spm=a2700.7724857.normalList.158.4df1125eztbV4f**
 - **http://www.interlog.com/~solpro/quadricycle.htm**
