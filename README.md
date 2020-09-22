@@ -48,6 +48,15 @@ We believe that a green solar car can make our world a better place, providing b
 
 # Open Solar E-Car Versions:
 
+## Version 1.01
+
+ ### 3D Design:   
+  https://www.tinkercad.com/things/55AFa5FPQNT-solar-two-seats-e-bike-v101/
+  
+  ( Click on "View in 3D" or "Tinker this" )
+  
+   <img src="images/v101.en.design.gif" height="300">
+   
 ## Version 0.98
 
  ### 3D Design:   
