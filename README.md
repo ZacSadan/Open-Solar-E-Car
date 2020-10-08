@@ -75,7 +75,7 @@ We believe that a green solar car can make our world a better place, providing b
     - Back wheels connector
   - Two pedals or use the Used E-Bikes Pedals ( 10$ )
   - Long Bicycle chain ( 20$ )
-  - Flexible Solar panel ( 250$ => 160W  https://www.amazon.com//dp/B082FCZ4MD )
+  - Flexible Solar panel ( 250$ => 160W  https://www.amazon.com//dp/B082FCZ4MD . 150cm x 67cm)
   - Total : 900$
   
   ### 3D Design: 
