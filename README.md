@@ -37,7 +37,8 @@ We believe that a green solar car can make our world a better place, providing b
   - Up to 2 passengers
   - Lights ( back and forward ) + Horn + light reflectors
   - Driver over 16 , has helmet , put explanation signs on bikes
-  - need to assamble in authorized TI factory & PEDELEC/EPAC Technology
+  - need to assamble in authorized TI factory & PEDELEC/EPAC Technology - how can this be override ? 
+  
   not relevant:
   - Width : under 1 meter ( according to EN12184 , might not be relevant )
   
