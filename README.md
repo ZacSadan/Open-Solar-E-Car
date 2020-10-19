@@ -27,17 +27,21 @@ We believe that a green solar car can make our world a better place, providing b
 ## More on Master aims:
 
   ### Legal
-  The EN15194 reulations enforce these rules:
+  The EN15194 ( or TI15194 ) reulations enforce these rules:
+  - Wight : up to 30Kg   
   - Up to 25KMPH 
-  - Lights ( back and forward )
-  - Horn
+  - Up to 250W motor ( 750W/500W in US/Canada )
   - Electric engine power activated by pedals
-  - Up to 250W motor (  750W/500W in US/Canada )
+  - Handles steering ( wheel is forbidden ! )
   - 4 wheels ( 3 in US/Canada )
   - Up to 2 passengers
+  - Lights ( back and forward ) + Horn + light reflectors
+  - Driver over 16 , has helmet , put explanation signs on bikes
+  - need to assamble in authorized TI factory & PEDELEC/EPAC Technology
+  not relevant:
   - Width : under 1 meter ( according to EN12184 , might not be relevant )
-  - Wight : up to 30Kg ( might not be relevant )
-  - Handles steering ( wheel is forbidden ! )
+  
+  
  
   ### Extra features:
   
