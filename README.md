@@ -28,7 +28,7 @@ We believe that a green solar car can make our world a better place, providing b
 
   ### Legal
   The EN15194 ( or TI15194 ) reulations enforce these rules:
-  - Wight : up to 30Kg   
+  - Weight : up to 30Kg   
   - Up to 25KMPH 
   - Up to 250W motor ( 750W/500W in US/Canada )
   - Electric engine power activated by pedals
