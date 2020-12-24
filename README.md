@@ -157,4 +157,5 @@ Products
 
 Futuristic Cars:
 - **https://lightyear.one/**
+- https://www.aptera.us/
 
