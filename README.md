@@ -106,6 +106,7 @@ We believe that a green solar car can make our world a better place, providing b
 - **Pinterest Playlist: https://www.pinterest.com/zacsadan/electric-solar-micro-cars/**
 
 - **https://www.squadmobility.com/**
+- **https://scoutermobility.com/**
 - **https://www.better.bike/features**
 - **https://organictransit.com/**
 - **https://www.velometro.com/veemo/**
