@@ -157,6 +157,6 @@ Products
 - https://www.alibaba.com/product-detail/Pedal-Family-Baby-Two-Seater-Beach_60364563115.html?spm=a2700.7724857.normalList.36.5a18117dxujZaP  
 
 Futuristic Cars:
-- **https://lightyear.one/**
+- https://lightyear.one/
 - https://www.aptera.us/
-
+- https://sonomotors.com/en/sion/
