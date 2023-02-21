@@ -160,4 +160,5 @@ Futuristic Cars:
 - https://lightyear.one/
 - https://www.aptera.us/
 - https://sonomotors.com/en/sion/
-- https://www.infinite-m.com/
+- https://www.infinite-m.com/oslovehicle
+
