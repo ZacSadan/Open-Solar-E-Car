@@ -161,4 +161,4 @@ Futuristic Cars:
 - https://www.aptera.us/
 - https://sonomotors.com/en/sion/
 - https://www.infinite-m.com/oslovehicle
-
+- https://vita.solarteameindhoven.nl/how-it-works
