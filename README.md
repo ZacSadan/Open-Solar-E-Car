@@ -164,7 +164,7 @@ Futuristic Cars:
 - https://vita.solarteameindhoven.nl/how-it-works
 - https://www.squadmobility.com/
 
-Thin vehicles against traffic jams
+Thin vehicles against traffic jams ( secure/safe , electric , with roof/doors , for 2 people  )
 - https://www.cityq.com - 0.85m
 - https://nimbusev.com - 0.86m
 - https://carver.earth - 0.98m
