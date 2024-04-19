@@ -163,3 +163,12 @@ Futuristic Cars:
 - https://www.infinite-m.com/oslovehicle
 - https://vita.solarteameindhoven.nl/how-it-works
 - https://www.squadmobility.com/
+
+Thin vehicles against traffic jams
+- https://www.cityq.com - 0.85m
+- https://nimbusev.com - 0.86m
+- https://carver.earth - 0.98m
+- https://citytransformer.com - 1m
+- https://cleanmotion.se/products/zbee - 1.5m
+- https://microlino-car.com - 1.5m
+
